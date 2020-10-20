@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  background: #13353f;
+  font-family: "Open Sans", "Arial";
+}
+main {
+  background: #FFF;
+  width: 500px;
+  margin: 100px 450px 300px;
+  padding: 20px 24px 70px;
+  box-shadow: 30px 20px 5px rgba(0,0,0,0.2);
+}
+#submit {
+  float: right;
+}
